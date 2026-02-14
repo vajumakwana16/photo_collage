@@ -41,7 +41,7 @@ dependencies:
   permission_handler: ^12.0.1
   path_provider: ^2.1.5
   gal: ^2.3.2
-  pro_image_editor: ^12.0.0
+  pro_image_editor: ^9.0.0
 
 dev_dependencies:
   flutter_test:
